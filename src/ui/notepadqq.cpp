@@ -106,6 +106,10 @@ QSharedPointer<QCommandLineParser> Notepadqq::getCommandLineArgumentsParser(cons
     QCommandLineOption printDebugOption("print-debug-info", QObject::tr("Print system information for debugging."));
     parser->addOption(printDebugOption);
 
+    QCommandLineOption readOnlyMode("read-only",
+                                    QObject::tr("Open file in read only mode."));
+    parser->addOption(readOnlyMode);
+
     parser->addPositionalArgument("urls",
                                  QObject::tr("Files to open."),
                                  "[urls...]");
