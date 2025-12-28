@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/4319621/36906314-e3f99680-1e35-11e8-90fd-f959c9641f36.png" alt="Notepadqq" width="32" height="32" /> Notepadqq [![Build Status](https://travis-ci.com/notepadqq-team/notepadqq-ng.svg?branch=master)](https://travis-ci.com/notepadqq-team/notepadqq-ng) [![notepadqq](https://snapcraft.io/notepadqq/badge.svg)](https://snapcraft.io/notepadqq)
+# <img src="https://user-images.githubusercontent.com/4319621/36906314-e3f99680-1e35-11e8-90fd-f959c9641f36.png" alt="Notepadqq" width="32" height="32" /> Notepadqq [![CI](https://github.com/notepadqq-team/notepadqq-ng/actions/workflows/ci.yml/badge.svg)](https://github.com/notepadqq-team/notepadqq-ng/actions/workflows/ci.yml)
 
 ### Links
 
